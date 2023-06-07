@@ -4,32 +4,42 @@
 
 WebCypher is a Google Chrome extension that helps users detect phishing websites in real-time. With the increasing sophistication of online scams and phishing attacks, it is essential to have a reliable tool that can protect users from falling victim to such fraudulent activities. WebCypher is designed to analyze website URLs and alert users if they are potentially accessing a phishing website.
 
-## Features
-
-- Real-Time Phishing Detection: WebCypher employs advanced algorithms to analyze the URL of the website you are visiting and quickly determines if it is a phishing website.
-- Instant Alerts: If a website is identified as a potential phishing site, WebCypher immediately alerts the user through a pop-up notification, providing them with the necessary information to stay safe.
-- Secure Browsing Experience: By using WebCypher, users can significantly reduce the risk of falling victim to phishing attacks and safeguard their personal information, such as usernames, passwords, and credit card details.
-- Lightweight and User-Friendly: WebCypher is designed to be a lightweight and unobtrusive extension that seamlessly integrates with your Chrome browser. It runs silently in the background without causing any disruptions to your browsing experience.
-
 ## Installation
 
-To install WebCypher, follow these steps:
+To install WebCypher using a zip file, follow these steps:
 
-1. Open the Google Chrome browser.
-2. Go to the Chrome Web Store.
-3. Search for "WebCypher" in the search bar.
-4. Click on the "Add to Chrome" button next to the WebCypher extension.
-5. Confirm the installation by clicking "Add extension" in the pop-up window.
-6. Once installed, WebCypher will appear as a small icon in the Chrome toolbar.
+1. Visit the WebCypher repository on GitHub: [WebCypher Repository](https://github.com/your-repository-link).
+
+2. Click on the "Code" button and select "Download ZIP" to download the extension as a zip file.
+
+3. Extract the contents of the zip file to a folder on your computer.
+
+4. Open the Google Chrome browser and type `chrome://extensions` in the address bar.
+
+5. Enable the "Developer mode" option located at the top right corner of the Extensions page.
+
+6. Click on the "Load unpacked" button.
+
+7. In the file explorer window, navigate to the folder where you extracted the contents of the zip file.
+
+8. Select the folder and click "Open" to load the extension.
+
+9. The WebCypher extension will be installed and visible in the list of extensions on the Chrome Extensions page.
+
+10. Ensure the toggle switch next to WebCypher is enabled to activate the extension.
 
 ## How to Use
 
 Using WebCypher is simple:
 
 1. Ensure that the WebCypher extension is enabled (the icon will be visible in the Chrome toolbar).
+
 2. Browse the internet as you normally would.
+
 3. As you visit websites, WebCypher will automatically analyze the URLs in real-time.
+
 4. If WebCypher detects a potential phishing website, a pop-up notification will appear, alerting you of the potential threat.
+
 5. Exercise caution when visiting websites that trigger a warning and avoid entering sensitive information if the website is flagged as suspicious.
 
 ## Reporting False Positives
@@ -37,17 +47,16 @@ Using WebCypher is simple:
 WebCypher strives to provide accurate phishing detection, but false positives may occur. If you believe a website has been incorrectly flagged as a phishing website, please report it to us through the following steps:
 
 1. Click on the WebCypher icon in the Chrome toolbar.
+
 2. Select the "Report False Positive" option from the drop-down menu.
+
 3. Provide the necessary information, including the URL and a brief explanation of why you believe it is a false positive.
+
 4. Click "Submit" to send the report to our team for review.
 
 ## Privacy and Data Security
 
 WebCypher is committed to protecting your privacy and maintaining the security of your data. The extension does not collect or store any personal information or browsing history. All analysis and detection are performed locally on your device.
-
-## Support and Feedback
-
-If you encounter any issues while using WebCypher or have any suggestions for improvement, please reach out to our support team at support@webcypher.com. We appreciate your feedback and will do our best to address any concerns or inquiries promptly.
 
 ## Disclaimer
 
@@ -56,7 +65,6 @@ WebCypher is an extension designed to enhance your online security; however, it 
 ---
 
 Thank you for choosing WebCypher!
-
 
 
 # Phishing URL Detection API 
