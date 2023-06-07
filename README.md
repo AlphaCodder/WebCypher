@@ -8,7 +8,7 @@ WebCypher is a Google Chrome extension that helps users detect phishing websites
 
 To install WebCypher using a zip file, follow these steps:
 
-1. Visit the WebCypher repository on GitHub: [WebCypher Repository](https://github.com/your-repository-link).
+1. Visit the WebCypher repository on GitHub: [WebCypher Repository]([https://github.com/your-repository-link](https://github.com/AlphaCodder/WebCypher/)).
 
 2. Click on the "Code" button and select "Download ZIP" to download the extension as a zip file.
 
