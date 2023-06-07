@@ -1,6 +1,6 @@
 # WebCypher - Real-Time Phishing Website Detector Chrome Extension
 
-![WebCypher Logo](webcypher_logo.png)
+![WebCypher Logo](webcypher.png)
 
 WebCypher is a Google Chrome extension that helps users detect phishing websites in real-time. With the increasing sophistication of online scams and phishing attacks, it is essential to have a reliable tool that can protect users from falling victim to such fraudulent activities. WebCypher is designed to analyze website URLs and alert users if they are potentially accessing a phishing website.
 
